@@ -1,0 +1,37 @@
+body{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: cadetblue;
+    background-color: bisque;
+}
+h1{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color:cadetblue !important;
+}
+.font-weight-bold{
+    color:cadetblue
+}
+
+/*div styles*/
+.common{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.top{
+    left: 0px;
+    right: 0px;
+}
+.middle{
+    left: 0px;
+    right: 0px;
+}
+.bottom{
+    position:fixed;
+    bottom: 0px;
+    left: 0px;
+    right: 0px;
+    z-index: 1;
+    text-align: center;
+    background-color: chocolate;
+    font-style: italic;
+    font-weight: bold;
+}
